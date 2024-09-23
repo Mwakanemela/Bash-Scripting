@@ -1,0 +1,7 @@
+echo $SHELL - to know which bash you are using either bin bash or zsh
+
+which bash or which zsh - to know what to execute to switch to bin bash or zsh -(this didnot work for me)
+
+(so i used this and it worked)
+if point 2 does not work while using sudo create a backup of /etc/passwd using cp(copy) command then edit /etc/passwd the last line change zsh to bash the logout and login again
+
