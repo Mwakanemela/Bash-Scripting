@@ -5,3 +5,4 @@ which bash or which zsh - to know what to execute to switch to bin bash or zsh -
 (so i used this and it worked)
 if point 2 does not work while using sudo create a backup of /etc/passwd using cp(copy) command then edit /etc/passwd the last line change zsh to bash the logout and login again
 
+create a script file with .sh extension, write your script then make it executable by using chmod +x filename.extension
