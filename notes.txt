@@ -7,6 +7,10 @@ if point 2 does not work while using sudo create a backup of /etc/passwd using c
 
 create a script file with .sh extension, write your script then make it executable by using chmod +x filename.extension
 
-VARIABLES
+			VARIABLES
 name="variable" - no space required
 env - displays environment variables declared on your system
+
+			IF STATEMENTS
+-eq => is equal, -gt => greater than
+-ne => not equal
