@@ -14,3 +14,4 @@ env - displays environment variables declared on your system
 			IF STATEMENTS
 -eq => is equal, -gt => greater than
 -ne => not equal
+-f => check for files, -d => check for directories
